@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Consigue tu trabajo soñado con un CV perfecto",
+    "subtitle": "Optimización profesional de CV que te destaca. Escritores expertos elaboran CVs que muestren tus mejores cualidades a los reclutadores.",
+    "cta": "Optimiza tu CV",
+    "viewPricing": "Ver Precios",
+    "stats": {
+      "optimized": "CVs Optimizados Exitosamente",
+      "interview": "Tasa de Éxito en Entrevistas",
+      "rating": "Calificación Promedio de Clientes"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Optimización integral de CV adaptada a tu industria y objetivos de carrera",
+    "rewriting": {
+      "title": "Reescritura de CV",
+      "description": "Reescritura completa enfocada en logros y métricas de impacto"
+    },
+    "ats": {
+      "title": "Optimización ATS",
+      "description": "Optimizado para Sistemas de Seguimiento de Candidatos y algoritmos de reclutadores"
+    },
+    "content": {
+      "title": "Mejora de Contenido",
+      "description": "Lenguaje poderoso que destaca tu propuesta de valor única"
+    },
+    "formatting": {
+      "title": "Formato y Diseño",
+      "description": "Diseños profesionales que son hermosos y compatibles con ATS"
+    },
+    "review": {
+      "title": "Revisión Técnica",
+      "description": "Verificación de gramática, ortografía y consistencia en todas las secciones"
+    },
+    "coaching": {
+      "title": "Coaching de Entrevistas",
+      "description": "Orientación para discutir con confianza tus logros en el CV"
+    }
+  },
+  "pricing": {
+    "title": "Precios Simples y Transparentes",
+    "subtitle": "Elige el paquete que se ajuste a tus necesidades. Todos los paquetes incluyen revisiones ilimitadas hasta que estés satisfecho.",
+    "basic": {
+      "name": "Básico",
+      "description": "Perfecto para optimizadores primerizos"
+    },
+    "professional": {
+      "name": "Profesional",
+      "description": "Más popular - Recomendado"
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "Para cambios de carrera serios"
+    }
+  },
+  "auth": {
+    "signup": "Crear Cuenta",
+    "login": "Iniciar Sesión",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "passwordMinimum": "Mínimo 8 caracteres",
+    "createAccount": "Crear Cuenta",
+    "loginButton": "Iniciar Sesión",
+    "haveAccount": "¿Ya tienes una cuenta?",
+    "noAccount": "¿No tienes una cuenta?"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido",
+    "logout": "Cerrar Sesión",
+    "newOrder": "Nuevo Pedido",
+    "accountSettings": "Configuración de Cuenta",
+    "yourOrders": "Tus Pedidos"
+  }
+}

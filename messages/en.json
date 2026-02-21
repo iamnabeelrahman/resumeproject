@@ -1,0 +1,77 @@
+{
+  "hero": {
+    "title": "Land Your Dream Job with a Perfect CV",
+    "subtitle": "Professional CV optimization that gets you noticed. Expert writers craft CVs that showcase your best qualities to recruiters.",
+    "cta": "Get Your CV Optimized",
+    "viewPricing": "View Pricing",
+    "stats": {
+      "optimized": "CVs Successfully Optimized",
+      "interview": "Interview Success Rate",
+      "rating": "Average Customer Rating"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive CV optimization tailored to your industry and career goals",
+    "rewriting": {
+      "title": "CV Rewriting",
+      "description": "Complete rewrite focusing on achievements and impact metrics"
+    },
+    "ats": {
+      "title": "ATS Optimization",
+      "description": "Optimized for Applicant Tracking Systems and recruiter algorithms"
+    },
+    "content": {
+      "title": "Content Enhancement",
+      "description": "Powerful language that highlights your unique value proposition"
+    },
+    "formatting": {
+      "title": "Formatting & Design",
+      "description": "Professional layouts that are both beautiful and ATS-friendly"
+    },
+    "review": {
+      "title": "Technical Review",
+      "description": "Grammar, spelling, and consistency checks across all sections"
+    },
+    "coaching": {
+      "title": "Interview Coaching",
+      "description": "Guidance to discuss your CV achievements confidently"
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the package that fits your needs. All packages include unlimited revisions until you're satisfied.",
+    "basic": {
+      "name": "Basic",
+      "description": "Perfect for first-time optimizers"
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "Most popular - Recommended"
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "For serious career changers"
+    }
+  },
+  "auth": {
+    "signup": "Create Account",
+    "login": "Login",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "password": "Password",
+    "passwordMinimum": "Minimum 8 characters",
+    "createAccount": "Create Account",
+    "loginButton": "Login",
+    "haveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "logout": "Logout",
+    "newOrder": "New Order",
+    "accountSettings": "Account Settings",
+    "yourOrders": "Your Orders"
+  }
+}
